@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">News Breeze</string>
+    <string name="google_maps_key">AIzaSyA3lnAcpp2xG5qAMl8EnY_O_RWaurxaqKE</string>
+    <string name="label_read">Read</string>
+    <string name="label_save">Save</string>
+    <string name="label_saved_list">Watch Saved List</string>
+    <string name="label_sort_list">Sort List</string>
+</resources>
